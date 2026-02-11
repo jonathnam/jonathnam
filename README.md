@@ -1,7 +1,5 @@
 # 👋 Hola, soy JONATHAN MARQUEZ 
 
-### Backend Developer
-
 Desarrollador en proceso.
 
 ---
